@@ -1,8 +1,8 @@
 # Exercise-3.3-Exploring-Bluetooth-Low-Energy-BLE-Networks-with-BLE-Scanner
 
-# 🔎 Bluetooth Low Energy (BLE) Investigation and Analysis Report
+#  Bluetooth Low Energy (BLE) Investigation and Analysis Report
 
-## 📌 Objective
+## Objective
 To investigate and analyse nearby Bluetooth Low Energy (BLE) devices within a single-room residential environment and evaluate signal characteristics, environmental effects, and security implications.
 
 ---
