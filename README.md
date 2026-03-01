@@ -39,7 +39,7 @@ No connection attempts were made to any detected devices to maintain ethical and
 
 ---
 
-## 📡 3. Technical Analysis
+##  3. Technical Analysis
 
 ### RSSI vs Distance Relationship
 
@@ -47,7 +47,7 @@ An inverse relationship between RSSI and distance was observed:
 
 - -61 dBm → ~1.26 m (very close device)
 - -69 to -78 dBm → 3–9 m (likely same room)
-- -85 to -90 dBm → 20–35 m (likely behind walls or neighboring apartment)
+- -85 to -90 dBm → 20–35 m (likely behind walls or neighbouring apartment)
 - -107 dBm → extremely weak signal
 
 The device showing -107 dBm with an estimated 251 m distance is unrealistic for an indoor setting. This highlights that RSSI-based distance estimation becomes highly inaccurate at very weak signal levels.
@@ -74,7 +74,7 @@ Indoor environments cause signals to reflect from walls and furniture, leading t
 Even in a single-room apartment, 7 BLE devices were detected. These likely include:
 
 - Personal devices
-- Neighboring devices
+- Neighbouring devices
 - IoT devices operating in advertising mode
 
 This demonstrates that BLE signals extend beyond physical room boundaries.
